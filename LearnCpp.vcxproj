@@ -156,10 +156,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="src\LearnCpp.cpp" />
+    <ClCompile Include="src\ReverseInteger.cpp" />
     <ClCompile Include="src\Solution.cpp" />
     <ClCompile Include="src\TwoSum.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="include\ReverseInteger.h" />
     <ClInclude Include="include\Solution.h" />
     <ClInclude Include="include\TwoSum.h" />
   </ItemGroup>

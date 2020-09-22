@@ -24,12 +24,18 @@
     <ClCompile Include="src\TwoSum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\ReverseInteger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\Solution.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="include\TwoSum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ReverseInteger.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
