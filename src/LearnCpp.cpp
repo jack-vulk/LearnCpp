@@ -20,7 +20,7 @@ int main()
     solution->run();
 
     // ReverseInteger
-    params = new ReverseIntegerParams(-10);
+    params = new ReverseIntegerParams(-122991915);
     solution = new ReverseInteger(params);
 
     solution->run();
